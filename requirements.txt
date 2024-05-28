@@ -1,2 +1,4 @@
 numpy==1.26.4
 pytz==2024.1
+pandas==1.4.2
+ppscore==1.2.0
